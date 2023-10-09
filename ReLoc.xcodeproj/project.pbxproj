@@ -24,6 +24,7 @@
 		17609F182AC9A03500F0AA85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17609F1B2AC9A03500F0AA85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17609F1D2AC9A03500F0AA85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17609F232AC9A08800F0AA85 /* gpxgenerator_path.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = gpxgenerator_path.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		17609F032AC9A03300F0AA85 = {
 			isa = PBXGroup;
 			children = (
+				17609F232AC9A08800F0AA85 /* gpxgenerator_path.gpx */,
 				17609F0E2AC9A03300F0AA85 /* ReLoc */,
 				17609F0D2AC9A03300F0AA85 /* Products */,
 			);
